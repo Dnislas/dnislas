@@ -1,273 +1,216 @@
-<!-- Paleta: beige #F5EFE6 / #E3D6C4 | azul polvo #7C9CBF / #C9D6E4 | azul profundo #2F4560 | acento coral #E8805A -->
+<!-- Paleta: verde bosque #1F3D2B / #2F5D3F | naranja #F59A2B | salvia #DDE5D3 | crema #F7F6F1 | turquesa #2E8B8B -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5EFE6,48:C9D6E4,100:7C9CBF&height=260&section=header&text=Daniel%20Islas&fontSize=58&fontColor=2F4560&fontAlignY=40&desc=data%20%C2%B7%20software%20%C2%B7%20sistemas&descAlignY=62&descSize=18&descColor=4A5F7A&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3D2B,60:2F5D3F,100:2E8B8B&height=250&section=header&text=Daniel%20Islas&fontSize=60&fontColor=F7F6F1&fontAlignY=38&desc=Ciencia%20de%20Datos%20%C2%B7%20Business%20Intelligence%20%C2%B7%20Software&descAlignY=60&descSize=18&descColor=DDE5D3&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=21&duration=3500&pause=1200&color=2F4560&center=true&vCenter=true&width=720&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales;Ciencia+de+Datos+y+Business+Intelligence;Desarrollo+web+full+stack;Convierto+datos+en+decisiones" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2500&pause=1500&color=F59A2B&center=true&vCenter=true&width=420&height=24&lines=E+X+P+L+O+R+A+++L+O+S+++D+A+T+O+S" alt="eyebrow"/>
+</p>
+
+<h1 align="center">Convierte datos en decisiones.</h1>
+
+<p align="center">
+  Estudiante de Ingeniería en Sistemas Computacionales especializado en Ciencia de Datos.<br/>
+  Limpio, analizo y visualizo información para apoyar decisiones con evidencia.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/disponible-pr%C3%A1cticas%20%26%20junior-E8805A?style=flat-square&labelColor=2F4560"/>
-  <img src="https://img.shields.io/badge/ubicaci%C3%B3n-M%C3%A9xico-7C9CBF?style=flat-square&labelColor=2F4560"/>
-  <img src="https://img.shields.io/badge/modalidad-remoto%20%C2%B7%20h%C3%ADbrido%20%C2%B7%20presencial-E3D6C4?style=flat-square&labelColor=2F4560"/>
+  <a href="#proyectos"><img src="https://img.shields.io/badge/Ver%20proyectos-F59A2B?style=for-the-badge&labelColor=F59A2B&color=F59A2B"/></a>
+  <a href="mailto:islasdaniel752@gmail.com"><img src="https://img.shields.io/badge/Contactar-1F3D2B?style=for-the-badge&labelColor=1F3D2B&color=1F3D2B"/></a>
 </p>
 
-<p align="center">
-  <a href="mailto:islasdaniel752@gmail.com"><img src="https://img.shields.io/badge/correo-islasdaniel752%40gmail.com-F5EFE6?style=for-the-badge&logo=gmail&logoColor=2F4560&labelColor=E3D6C4"/></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/linkedin-perfil-C9D6E4?style=for-the-badge&logo=linkedin&logoColor=2F4560&labelColor=7C9CBF"/></a>
-  <a href="https://github.com/Dnislas"><img src="https://img.shields.io/badge/github-Dnislas-2F4560?style=for-the-badge&logo=github&logoColor=F5EFE6"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3D6C4,50:7C9CBF,100:E3D6C4&height=2&section=header" width="100%"/>
-
-<br/>
-
-<h3 align="center">P E R F I L</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F3D2B&height=62&section=header&text=Estudiante%20Junior%20%20%C2%B7%20%20Ciencia%20de%20Datos%20%20%C2%B7%20%20M%C3%A9xico%20%20%C2%B7%20%20Pr%C3%A1cticas%20y%20posiciones%20junior&fontSize=16&fontColor=F7F6F1&fontAlignY=52" width="100%"/>
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
-
-Estudiante de **Ingeniería en Sistemas Computacionales** especializado en **Ciencia de Datos** y **desarrollo de software**.
-
-Trabajo el ciclo completo de la información: obtención, limpieza, análisis, visualización e interpretación para apoyar decisiones. En paralelo construyo aplicaciones web de extremo a extremo, con autenticación, roles, seguimiento de procesos y reportes.
-
-Me interesa el trabajo ordenado, legible y que resuelva un problema concreto.
-
+<td width="25%" valign="top" align="center">
+<img src="https://img.shields.io/badge/AN%C3%81LISIS-2F5D3F?style=for-the-badge&logo=databricks&logoColor=F59A2B"/><br/>
+<sub>Exploración y estadística descriptiva para entender los datos antes de concluir.</sub>
 </td>
-<td width="40%" valign="top">
-
-```yaml
-rol:        Estudiante / Junior
-enfoque:    Ciencia de Datos
-            Desarrollo Web
-herramientas:
-  - Python, SQL
-  - Power BI, Excel
-  - React, Django
-busca:      Practicas y posiciones junior
-ingles:     [completar nivel]
-```
-
+<td width="25%" valign="top" align="center">
+<img src="https://img.shields.io/badge/LIMPIEZA-2F5D3F?style=for-the-badge&logo=pandas&logoColor=F59A2B"/><br/>
+<sub>Preparación y validación para que el análisis sea confiable.</sub>
+</td>
+<td width="25%" valign="top" align="center">
+<img src="https://img.shields.io/badge/VISUALIZACI%C3%93N-2F5D3F?style=for-the-badge&logo=powerbi&logoColor=F59A2B"/><br/>
+<sub>Dashboards y gráficas que comunican resultados con claridad.</sub>
+</td>
+<td width="25%" valign="top" align="center">
+<img src="https://img.shields.io/badge/DECISI%C3%93N-2F5D3F?style=for-the-badge&logo=target&logoColor=F59A2B"/><br/>
+<sub>Interpretación orientada a la acción y a los objetivos del negocio.</sub>
 </td>
 </tr>
 </table>
 
-<br/>
-
-<h3 align="center">E N F O Q U E</h3>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-**Análisis y visualización**
-
-Python, SQL, Excel y Power BI para explorar datos, detectar patrones y comunicarlos con claridad.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**Desarrollo de aplicaciones**
-
-React, TypeScript, Django y PostgreSQL para construir sistemas con roles, datos y reportes.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**Infraestructura y redes**
-
-Segmentación, enrutamiento y redundancia con VLAN, STP, OSPF y EIGRP.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3D6C4,50:7C9CBF,100:E3D6C4&height=2&section=header" width="100%"/>
-
-<br/>
-
-<h3 align="center">S T A C K</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,html,css&theme=light"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,django,postgresql,mysql&theme=light"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=light"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-F5EFE6?style=flat-square&logo=microsoftexcel&logoColor=2F4560&labelColor=E3D6C4"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F5EFE6?style=flat-square&logo=powerbi&logoColor=2F4560&labelColor=E3D6C4"/>
-  <img src="https://img.shields.io/badge/BigQuery-F5EFE6?style=flat-square&logo=googlebigquery&logoColor=2F4560&labelColor=E3D6C4"/>
-  <img src="https://img.shields.io/badge/Supabase-F5EFE6?style=flat-square&logo=supabase&logoColor=2F4560&labelColor=E3D6C4"/>
-  <img src="https://img.shields.io/badge/SQL-F5EFE6?style=flat-square&logo=postgresql&logoColor=2F4560&labelColor=E3D6C4"/>
-</p>
-
-<div align="center">
-
-| Área | Competencias |
-| :--- | :--- |
-| Ciencia de Datos | Limpieza, exploración, estadística descriptiva, visualización |
-| Business Intelligence | Dashboards, indicadores, reportes |
-| Análisis | Tablas dinámicas, fórmulas avanzadas, organización de datos |
-| Desarrollo web | Aplicaciones full stack, autenticación, roles, diseño responsivo |
-| Bases de datos | Modelado relacional, consultas SQL, integridad de datos |
-| Redes | VLAN, STP, OSPF, EIGRP |
-| Flujo de trabajo | Git, GitHub, control de versiones |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3D6C4,50:7C9CBF,100:E3D6C4&height=2&section=header" width="100%"/>
-
-<br/>
-
-<h3 align="center">P R O Y E C T O S</h3>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### Sistema CRM para estudiantes
-
-Aplicación web para gestionar la relación entre vendedores y clientes en un entorno estudiantil.
-
-- Usuarios y roles
-- Productos y servicios
-- Seguimiento y historial de clientes
-- Etapas del proceso de venta
-- Recomendación de productos
-- Estadísticas y reportes
-
-<img src="https://img.shields.io/badge/Django-2F4560?style=flat-square&logo=django&logoColor=F5EFE6"/>
-<img src="https://img.shields.io/badge/PostgreSQL-7C9CBF?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-E3D6C4?style=flat-square&logo=javascript&logoColor=2F4560"/>
-
-<a href="https://github.com/Dnislas/NOMBRE-REPO-CRM"><img src="https://img.shields.io/badge/ver%20repositorio-E8805A?style=flat-square&labelColor=2F4560"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### Sistema de seguimiento de proyectos
-
-Aplicación web empresarial para administrar el ciclo de vida de distintos proyectos.
-
-- Autenticación de usuarios
-- Roles de administrador y operador
-- Registro de proyectos y posibles proyectos
-- Seguimiento de actividades y estados
-- Control de avances
-
-<img src="https://img.shields.io/badge/React-2F4560?style=flat-square&logo=react&logoColor=F5EFE6"/>
-<img src="https://img.shields.io/badge/TypeScript-7C9CBF?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-E3D6C4?style=flat-square&logo=vite&logoColor=2F4560"/>
-<img src="https://img.shields.io/badge/Tailwind-C9D6E4?style=flat-square&logo=tailwindcss&logoColor=2F4560"/>
-<img src="https://img.shields.io/badge/Supabase-F5EFE6?style=flat-square&logo=supabase&logoColor=2F4560"/>
-
-<a href="https://github.com/Dnislas/NOMBRE-REPO-SEGUIMIENTO"><img src="https://img.shields.io/badge/ver%20repositorio-E8805A?style=flat-square&labelColor=2F4560"/></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-#### Proyectos de Ciencia de Datos
-
-Prácticas enfocadas en procesar, analizar y visualizar información con un flujo estructurado:
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DDE5D3,50:F7F6F1,100:DDE5D3&height=62&section=header&text=C%20I%20E%20N%20C%20I%20A%20%20%20D%20E%20%20%20D%20A%20T%20O%20S&fontSize=20&fontColor=1F3D2B&fontAlignY=52" width="100%"/>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#F5EFE6','primaryBorderColor':'#7C9CBF','primaryTextColor':'#2F4560','lineColor':'#E8805A','fontFamily':'Georgia'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#DDE5D3','primaryBorderColor':'#1F3D2B','primaryTextColor':'#1F3D2B','lineColor':'#F59A2B','fontFamily':'Verdana'}}}%%
 flowchart LR
-    A[Obtención] --> B[Limpieza]
-    B --> C[Exploración]
-    C --> D[Visualización]
-    D --> E[Interpretación]
-    E --> F[Decisión]
+    A[Obtención<br/>de datos] --> B[Limpieza y<br/>preparación]
+    B --> C[Análisis<br/>exploratorio]
+    C --> D[Modelado y<br/>estadística]
+    D --> E[Visualización]
+    E --> F[Interpretación<br/>y decisión]
 ```
 
-<p>
-  <img src="https://img.shields.io/badge/Python-2F4560?style=flat-square&logo=python&logoColor=F5EFE6"/>
-  <img src="https://img.shields.io/badge/SQL-7C9CBF?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-C9D6E4?style=flat-square&logo=googlebigquery&logoColor=2F4560"/>
-  <img src="https://img.shields.io/badge/Power%20BI-E3D6C4?style=flat-square&logo=powerbi&logoColor=2F4560"/>
-  <img src="https://img.shields.io/badge/Excel-F5EFE6?style=flat-square&logo=microsoftexcel&logoColor=2F4560"/>
-</p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/EXTRACCI%C3%93N-F59A2B?style=flat-square&labelColor=1F3D2B"/><br/>
+Archivos, bases de datos y fuentes externas con Python y SQL.
+</td>
+<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/PREPARACI%C3%93N-F59A2B?style=flat-square&labelColor=1F3D2B"/><br/>
+Nulos, duplicados, tipos de dato y valores atípicos.
+</td>
+<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/EXPLORACI%C3%93N-F59A2B?style=flat-square&labelColor=1F3D2B"/><br/>
+Estadística descriptiva, correlaciones y detección de patrones.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="https://img.shields.io/badge/CONSULTAS-F59A2B?style=flat-square&labelColor=1F3D2B"/><br/>
+SQL sobre PostgreSQL, MySQL y BigQuery.
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/DASHBOARDS-F59A2B?style=flat-square&labelColor=1F3D2B"/><br/>
+Indicadores (KPI) y reportes interactivos en Power BI.
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/MODELOS-F59A2B?style=flat-square&labelColor=1F3D2B"/><br/>
+Tablas dinámicas y fórmulas avanzadas en Excel.
+</td>
+</tr>
+</table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DDE5D3,50:F7F6F1,100:DDE5D3&height=62&section=header&text=H%20E%20R%20R%20A%20M%20I%20E%20N%20T%20A%20S&fontSize=20&fontColor=1F3D2B&fontAlignY=52" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3D6C4,50:7C9CBF,100:E3D6C4&height=2&section=header" width="100%"/>
+<table width="100%">
+<tr>
+<td width="22%" align="center"><img src="https://img.shields.io/badge/DATOS-1F3D2B?style=for-the-badge"/></td>
+<td>
+  <img src="https://img.shields.io/badge/Python-1F3D2B?style=for-the-badge&logo=python&logoColor=F7F6F1"/>
+  <img src="https://img.shields.io/badge/SQL-2F5D3F?style=for-the-badge&logo=postgresql&logoColor=F7F6F1"/>
+  <img src="https://img.shields.io/badge/BigQuery-2E8B8B?style=for-the-badge&logo=googlebigquery&logoColor=F7F6F1"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F59A2B?style=for-the-badge&logo=powerbi&logoColor=1F3D2B"/>
+  <img src="https://img.shields.io/badge/Excel-DDE5D3?style=for-the-badge&logo=microsoftexcel&logoColor=1F3D2B"/>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/BASES%20DE%20DATOS-1F3D2B?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=light"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/LENGUAJES-1F3D2B?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript&theme=light"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/WEB-1F3D2B?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,django,html,css&theme=light"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/HERRAMIENTAS-1F3D2B?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/></td>
+</tr>
+</table>
 
-<br/>
+<a id="proyectos"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DDE5D3,50:F7F6F1,100:DDE5D3&height=62&section=header&text=P%20R%20O%20Y%20E%20C%20T%20O%20S&fontSize=20&fontColor=1F3D2B&fontAlignY=52" width="100%"/>
 
-<h3 align="center">F O R M A C I Ó N</h3>
+<table width="100%">
+<tr>
+<td colspan="2" valign="top">
 
-<div align="center">
+<img src="https://img.shields.io/badge/CIENCIA%20DE%20DATOS-F59A2B?style=flat-square&labelColor=1F3D2B"/>
+<img src="https://img.shields.io/badge/PROYECTO%20PRINCIPAL-2E8B8B?style=flat-square&labelColor=1F3D2B"/>
 
-| Programa | Institución | Periodo |
-| :--- | :--- | :---: |
-| Ingeniería en Sistemas Computacionales | [Completar institución] | [Año] - Actual |
-| [Curso o certificación: Power BI, SQL, Python] | [Plataforma] | [Año] |
-| [Curso o certificación adicional] | [Plataforma] | [Año] |
+**Análisis y visualización de datos**
 
-</div>
+Proyectos y prácticas que recorren el ciclo analítico completo: obtención, limpieza, exploración, visualización e interpretación de resultados.
 
-<br/>
+<img src="https://img.shields.io/badge/Python-1F3D2B?style=flat-square&logo=python&logoColor=F7F6F1"/>
+<img src="https://img.shields.io/badge/SQL-2F5D3F?style=flat-square&logo=postgresql&logoColor=F7F6F1"/>
+<img src="https://img.shields.io/badge/BigQuery-2E8B8B?style=flat-square&logo=googlebigquery&logoColor=F7F6F1"/>
+<img src="https://img.shields.io/badge/Power%20BI-F59A2B?style=flat-square&logo=powerbi&logoColor=1F3D2B"/>
+<img src="https://img.shields.io/badge/Excel-DDE5D3?style=flat-square&logo=microsoftexcel&logoColor=1F3D2B"/>
+&nbsp;
+<a href="https://github.com/Dnislas/NOMBRE-REPO-DATOS"><img src="https://img.shields.io/badge/Ver%20repositorio-F59A2B?style=flat-square&labelColor=1F3D2B"/></a>
 
-<h3 align="center">E N   A P R E N D I Z A J E</h3>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/DESARROLLO%20WEB-2E8B8B?style=flat-square&labelColor=1F3D2B"/>
+
+**Sistema CRM para estudiantes**
+
+Gestión de la relación entre vendedores y clientes con seguimiento de ventas y analítica integrada: usuarios y roles, historial de interacciones, etapas de venta, recomendación de productos y reportes.
+
+<img src="https://img.shields.io/badge/Django-1F3D2B?style=flat-square&logo=django&logoColor=F7F6F1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2F5D3F?style=flat-square&logo=postgresql&logoColor=F7F6F1"/>
+<img src="https://img.shields.io/badge/JavaScript-F59A2B?style=flat-square&logo=javascript&logoColor=1F3D2B"/>
+&nbsp;
+<a href="https://github.com/Dnislas/NOMBRE-REPO-CRM"><img src="https://img.shields.io/badge/Ver%20repositorio-F59A2B?style=flat-square&labelColor=1F3D2B"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/DESARROLLO%20WEB-2E8B8B?style=flat-square&labelColor=1F3D2B"/>
+
+**Sistema de seguimiento de proyectos**
+
+Aplicación empresarial para administrar el ciclo de vida de proyectos: autenticación, roles de administrador y operador, registro de proyectos y posibles proyectos, seguimiento de actividades, estados y avances.
+
+<img src="https://img.shields.io/badge/React-1F3D2B?style=flat-square&logo=react&logoColor=F7F6F1"/>
+<img src="https://img.shields.io/badge/TypeScript-2F5D3F?style=flat-square&logo=typescript&logoColor=F7F6F1"/>
+<img src="https://img.shields.io/badge/Vite-F59A2B?style=flat-square&logo=vite&logoColor=1F3D2B"/>
+<img src="https://img.shields.io/badge/Tailwind-2E8B8B?style=flat-square&logo=tailwindcss&logoColor=F7F6F1"/>
+<img src="https://img.shields.io/badge/Supabase-DDE5D3?style=flat-square&logo=supabase&logoColor=1F3D2B"/>
+&nbsp;
+<a href="https://github.com/Dnislas/NOMBRE-REPO-SEGUIMIENTO"><img src="https://img.shields.io/badge/Ver%20repositorio-F59A2B?style=flat-square&labelColor=1F3D2B"/></a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DDE5D3,50:F7F6F1,100:DDE5D3&height=62&section=header&text=F%20O%20R%20M%20A%20C%20I%20%C3%93%20N&fontSize=20&fontColor=1F3D2B&fontAlignY=52" width="100%"/>
+
+<table width="100%">
+<tr>
+<td width="40%" align="center"><img src="https://img.shields.io/badge/CARRERA-1F3D2B?style=flat-square"/></td>
+<td width="35%" align="center"><img src="https://img.shields.io/badge/INSTITUCI%C3%93N-1F3D2B?style=flat-square"/></td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/PERIODO-1F3D2B?style=flat-square"/></td>
+</tr>
+<tr>
+<td align="center"><b>Ingeniería en Sistemas Computacionales</b></td>
+<td align="center">[Completar institución]</td>
+<td align="center">[Año] - Actual</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DDE5D3,50:F7F6F1,100:DDE5D3&height=62&section=header&text=A%20C%20T%20I%20V%20I%20D%20A%20D&fontSize=20&fontColor=1F3D2B&fontAlignY=52" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/estad%C3%ADstica%20aplicada-F5EFE6?style=flat-square&labelColor=7C9CBF"/>
-  <img src="https://img.shields.io/badge/SQL%20avanzado-F5EFE6?style=flat-square&labelColor=7C9CBF"/>
-  <img src="https://img.shields.io/badge/pipelines%20de%20datos-F5EFE6?style=flat-square&labelColor=7C9CBF"/>
-  <img src="https://img.shields.io/badge/arquitectura%20web-F5EFE6?style=flat-square&labelColor=7C9CBF"/>
-  <img src="https://img.shields.io/badge/desarrollo%20m%C3%B3vil-F5EFE6?style=flat-square&labelColor=7C9CBF"/>
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3D6C4,50:7C9CBF,100:E3D6C4&height=2&section=header" width="100%"/>
-
-<br/>
-
-<h3 align="center">A C T I V I D A D</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dnislas&show_icons=true&hide_border=false&border_color=E3D6C4&border_radius=14&bg_color=F5EFE6&title_color=2F4560&icon_color=7C9CBF&text_color=4A4A4A&ring_color=E8805A&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnislas&layout=compact&langs_count=7&hide_border=false&border_color=E3D6C4&border_radius=14&bg_color=F5EFE6&title_color=2F4560&text_color=4A4A4A" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dnislas&show_icons=true&hide_border=false&border_color=DDE5D3&border_radius=16&bg_color=F7F6F1&title_color=1F3D2B&icon_color=F59A2B&text_color=3D4A40&ring_color=F59A2B&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnislas&layout=compact&langs_count=7&hide_border=false&border_color=DDE5D3&border_radius=16&bg_color=F7F6F1&title_color=1F3D2B&text_color=3D4A40" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dnislas&hide_border=false&border=E3D6C4&border_radius=14&background=F5EFE6&ring=7C9CBF&fire=E8805A&currStreakLabel=2F4560&currStreakNum=2F4560&sideLabels=4A5F7A&sideNums=2F4560&dates=7C8DA3" width="72%"/>
+  <img src="https://streak-stats.demolab.com?user=Dnislas&hide_border=false&border=DDE5D3&border_radius=16&background=F7F6F1&ring=1F3D2B&fire=F59A2B&currStreakLabel=1F3D2B&currStreakNum=1F3D2B&sideLabels=3D4A40&sideNums=1F3D2B&dates=6B7A6F" width="72%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dnislas&bg_color=F5EFE6&color=2F4560&line=7C9CBF&point=E8805A&area=true&area_color=C9D6E4&hide_border=true&hide_title=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dnislas&bg_color=F7F6F1&color=1F3D2B&line=2F5D3F&point=F59A2B&area=true&area_color=DDE5D3&hide_border=true&hide_title=true" width="95%"/>
 </p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1F3D2B,100:2F5D3F&height=190&section=header&text=Construyamos%20algo%20con%20datos&fontSize=34&fontColor=F7F6F1&fontAlignY=42&desc=Abierto%20a%20pr%C3%A1cticas%20profesionales%20y%20posiciones%20junior&descAlignY=64&descSize=15&descColor=DDE5D3" width="100%"/>
 
 <p align="center">
-  <i>Aprender, practicar, corregir, mejorar.</i>
+  <a href="mailto:islasdaniel752@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-F59A2B?style=for-the-badge&logo=gmail&logoColor=1F3D2B&labelColor=F59A2B&color=F59A2B"/></a>
+  <a href="https://github.com/Dnislas"><img src="https://img.shields.io/badge/GitHub-1F3D2B?style=for-the-badge&logo=github&logoColor=F7F6F1&labelColor=1F3D2B&color=1F3D2B"/></a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-2E8B8B?style=for-the-badge&logo=linkedin&logoColor=F7F6F1&labelColor=2E8B8B&color=2E8B8B"/></a>
 </p>
 
-<h3 align="center">C O N T A C T O</h3>
-
-<p align="center">
-  Abierto a prácticas profesionales, posiciones junior y colaboración en proyectos de datos y desarrollo web.
-</p>
-
-<p align="center">
-  <a href="mailto:islasdaniel752@gmail.com"><img src="https://img.shields.io/badge/escribirme-E8805A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2F4560"/></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/linkedin-7C9CBF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2F4560"/></a>
-  <a href="https://TU-PORTAFOLIO.com/cv.pdf"><img src="https://img.shields.io/badge/descargar%20CV-E3D6C4?style=for-the-badge&logoColor=2F4560&labelColor=2F4560"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C9CBF,55:C9D6E4,100:F5EFE6&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B8B,55:DDE5D3,100:F7F6F1&height=100&section=footer&reversal=true" width="100%"/>
